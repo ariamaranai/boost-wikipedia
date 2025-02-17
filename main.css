@@ -1,0 +1,11 @@
+a,
+span,
+b {
+  display: contents !important
+}
+::-webkit-scrollbar,
+.mw-jump-link,
+.vector-header-container,
+footer {
+  display: none !important
+}
