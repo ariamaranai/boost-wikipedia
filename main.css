@@ -5,7 +5,8 @@ b {
 }
 ::-webkit-scrollbar,
 .mw-jump-link,
+.mw-footer-container,
 .vector-header-container,
-footer {
+.vector-column-start {
   display: none !important
 }
