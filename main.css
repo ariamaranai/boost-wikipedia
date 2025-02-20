@@ -1,12 +1,15 @@
 a,
 span,
 b {
-  display: contents !important
+  display: contents
 }
 ::-webkit-scrollbar,
+.mw-editsection,
+.noprint,
 .mw-jump-link,
 .mw-footer-container,
+.vector-column-start,
 .vector-header-container,
-.vector-column-start {
+.vector-page-toolbar {
   display: none !important
 }
