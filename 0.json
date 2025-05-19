@@ -9,7 +9,8 @@
       "resourceTypes": ["image"],
       "requestMethods": ["get"],
       "domainType": "firstParty",
-      "urlFilter": "||wikipedia.org/static/"
+      "urlFilter": "||wikipedia.org/static/",
+      "isUrlFilterCaseSensitive": true
     }
   },
   {
@@ -22,7 +23,8 @@
       "resourceTypes": ["image"],
       "requestMethods": ["get"],
       "domainType": "firstParty",
-      "urlFilter": "/poweredby_mediawiki.svg|"
+      "urlFilter": "/poweredby_mediawiki.svg|",
+      "isUrlFilterCaseSensitive": true
     }
   },
   {
@@ -35,7 +37,8 @@
       "resourceTypes": ["image"],
       "requestMethods": ["get"],
       "domainType": "thirdParty",
-      "urlFilter": "&type=1x1&usesul3=0|"
+      "urlFilter": "&type=1x1&usesul3=0|",
+      "isUrlFilterCaseSensitive": true
     }
   }
 ]
